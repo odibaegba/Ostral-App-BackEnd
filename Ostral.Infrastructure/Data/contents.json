@@ -1,0 +1,30 @@
+[
+  {
+    "Id": "7ae8da5a-255a-475a-875e-ff6dc8c5135e",
+    "Title": "Introduction",
+    "Type": 1,
+    "Duration": 930,
+    "IsDownloadable": true,
+    "Percentage": 0,
+    "Url": "https://res.cloudinary.com/drixwe3ie/video/upload/v1681942553/HTML_CSS_Crash_Course_Tutorial_1_-_Introduction_qweuki.mp4",
+    "PublicId": "",
+    "Completed": null,
+    "CourseId": "0846e856-b077-4469-b050-f5ab6e8c25fa",
+    "CreatedAt": "2023-04-02T23:07:49.7317956Z",
+    "UpdatedAt": "2023-04-02T23:07:49.7318228Z"
+  },
+  {
+    "Id": "6dc3bcbe-6adc-4995-ba85-ee570521d68d",
+    "Title": "Basic HTML \u0026 CSS",
+    "Type": 1,
+    "Duration": 930,
+    "IsDownloadable": true,
+    "Percentage": 0,
+    "Url": "https://res.cloudinary.com/drixwe3ie/video/upload/v1681966669/HTML_CSS_Crash_Course_Tutorial_2_-_HTML_Basics_putluk.mp4",
+    "PublicId": "",
+    "Completed": null,
+    "CourseId": "0846e856-b077-4469-b050-f5ab6e8c25fa",
+    "CreatedAt": "2023-04-02T23:07:49.7318917Z",
+    "UpdatedAt": "2023-04-02T23:07:49.731892Z"
+  }
+]
